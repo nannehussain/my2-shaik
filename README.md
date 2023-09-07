@@ -34,3 +34,14 @@ In this section you are going to create a table with at least 4 kinds of sports.
 
 > Ignorance more frequently begets confidence than does knowledge - "Charles Darwin"
 ****** 
+
+# Fencing the code
+> React classNames override className - javascript <br>
+[ stackover flow](https://stackoverflow.com/questions/77056607/react-classnames-override-classname-added-by-javascript)
+```
+<div className={clsx(
+            'chat-input-container',
+            chatBoxInputCommandMode !== MODE.NORMAL && 'command-mode'
+        )}/>
+```
+[code snippet](https://css-tricks.com/snippets/javascript/lighten-darken-color/)  
