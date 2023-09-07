@@ -28,3 +28,9 @@ In this section you are going to create a table with at least 4 kinds of sports.
 | Swimming | Tones muscles and improves flexibility | 3 hrs |
 | Rock Climbing | it helps in concentration | 4 hrs |
 ******
+
+# Quotes for my Favourite Scientists
+> Imagination is more important than knowledge - "Albert Einstein"
+
+> Ignorance more frequently begets confidence than does knowledge - "Charles Darwin"
+****** 
